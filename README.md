@@ -12,7 +12,10 @@ It predicts CO₂ emissions and evaluates climate mitigation strategies to suppo
 - Predict per capita CO₂ emissions based on economic and environmental indicators  
 - Quantify effectiveness of climate strategies  
 - Prioritize high-impact interventions  
-- Simulate complex policy interactions  
+- Simulate complex policy interactions
+
+**🌐 Live Demo:** [Try the Climate Action Predictor](https://climate-predictor-uuardegtvw6cvsrkclf3et.streamlit.app/)
+
 
 ---
 
